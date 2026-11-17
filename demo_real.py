@@ -717,7 +717,7 @@ if __name__ == "__main__":
 
 ### **After (Real):**
 - Uses **llama-cpp-python** to run actual local models
-- You can choose from: Phi-2 (1 8GB), Mistral 7B (7 5GB), Llama 3 8B (4 7GB)
+- You can choose from xyz
 - Generates real responses dynamically
 - Shows actual inference, not simulated text
 
