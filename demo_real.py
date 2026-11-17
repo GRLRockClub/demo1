@@ -731,8 +731,7 @@ pip install llama-cpp-python
 ### Step 2: Download a small model
 ```bash
 # Option A: Via Hugging Face
-wget https://huggingface.co/microsoft/phi-2/resolve/main/phi-2.gguf -O models/phi-2.Q4_0.gguf
-
+wget huggingface.com
 # Option B: Use LM Studio (easiest)
 # 1. Download LM Studio from lmstudio.ai
 # 2. Search for "Phi-2" or "Mistral 7B"
